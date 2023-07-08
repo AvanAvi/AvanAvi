@@ -21,8 +21,8 @@
 
 ## About Me 💻
 
-yaml
-name: Avan Avi 
+'''yaml
+Name: Avan Avi 
 
 education:
 - Master of Science In Informatics: Resilient and secure Cyber Physical Systems
