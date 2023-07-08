@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## About Me 💻
 
 yaml
-name: Avan Avi
+name: Avan Avi 
 
 education:
-- Master's In Informatics: Resilient and secure Cyber Physical Systems
-- "B".tech Computer Science and Engineering
+- Master of Science In Informatics: Resilient and secure Cyber Physical Systems
+- Bachelor of Technology in Computer Science and Engineering
 
 fields_of_interests:
 - Distributed Computing
