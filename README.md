@@ -24,17 +24,17 @@
 
 Name: Avan Avi 
 
-education:
+Education:
 - Master of Science In Informatics: Resilient and secure Cyber Physical Systems
 - Bachelor of Technology in Computer Science and Engineering
 
-fields_of_interests:
+Fields_of_interests:
 - Distributed Computing
 - System Design
 - Quantum Computing
 - DevOps
 
-currently_learning:
+Currently_learning:
 - Quantum Computing: Annealing quantum logic gates and exploring the mysteries of the quantum realm.
 
 ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby)
