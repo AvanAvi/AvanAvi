@@ -3,13 +3,17 @@
 
 
 
-Here are some ideas to get you started:
+🔭 Ah, the marvelous world of Optimisation Problems in finance! Currently delving into the intricate art of Portfolio Optimisation. Seeking that perfect balance between risk and reward. It's like finding the elusive golden ratio of the financial realm. Wish me luck!
 
-- 🔭 I’m currently working on Optimisation Problems in finance: Portfolio Optimisation 
-- 🌱 I’m currently learning Quantum computing: Quantum Annealing to be specific!!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with "I've got no idea what to fill in here !!!"
-- 📫 How to reach me: avanishere@tutamail.com (I respond within a week max)
+🌱 Ahoy, fellow adventurers! Embarking on an exhilarating journey into the depths of **Quantum Computing**. Quantum Annealing, to be specific! Harnessing the power of qubits and entanglement to solve complex problems. Who needs classical computing when you can ride the quantum waves of computation? Mind-bending stuff, I tell you!
+
+👯 Calling all brilliant minds and innovative souls! I'm eagerly seeking collaboration opportunities. Let's combine our intellect, creativity, and passion to conquer new frontiers. Together, we can create something extraordinary that will make waves in the world of technology. Let's make the impossible possible!
+
+🤔 In need of assistance, oh wise ones! I find myself standing at the crossroads of curiosity and confusion. What fills this space, you may ask? Well, I'm seeking guidance, insights, and expertise. Help me unravel the mysteries of the unknown, for I've got no idea what to fill in here! Together, we shall conquer the enigma!
+
+📫 How to reach me, you ask? Ah, the digital carrier pigeon! Drop me a line at avanishere@tutamail.com, and fear not, for I shall respond within a week, with grace and intellect. Let's connect, share ideas, and embark on intellectual escapades that ignite the flames of innovation!
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/l2vK7msJ65XF6y2w22/giphy.gif" width="480" height="270" alt="GIF">
