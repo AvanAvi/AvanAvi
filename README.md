@@ -21,7 +21,7 @@
 
 ## About Me 💻
 
-'''yaml
+
 Name: Avan Avi 
 
 education:
