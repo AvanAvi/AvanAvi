@@ -13,7 +13,8 @@
 
 📫 Reach me at avanishere@tutamail.com. I'll respond within a week. Let's connect and embark on intellectual adventures that ignite innovation!
 
-
+<br>
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l2vK7msJ65XF6y2w22/giphy.gif" width="480" height="270" alt="GIF">
