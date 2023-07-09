@@ -1,4 +1,8 @@
-[![Video](https://thumbs.gfycat.com/ShallowAccurateBrownbear-size_restricted.gif)](https://gfycat.com/shallowaccuratebrownbear-programming-all-tags-compsci-hacker)
+<p align="center">
+  <a href="https://gfycat.com/shallowaccuratebrownbear-programming-all-tags-compsci-hacker">
+    <img src="https://thumbs.gfycat.com/ShallowAccurateBrownbear-size_restricted.gif" alt="Video" width="480" height="270">
+  </a>
+</p>
 
 # Hi there! 👋
 
