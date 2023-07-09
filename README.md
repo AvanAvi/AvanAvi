@@ -39,15 +39,9 @@ Fields_of_interests:
 Currently_learning:
 - Quantum Computing: Annealing quantum logic gates and exploring the mysteries of the quantum realm.
 
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 20px;">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=AvanAvi&theme=great-gatsby)](https://git.io/streak-stats)
-  </div>
-  <div style="flex: 1;">
-    ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby)
-  </div>
-</div>
-
+| GitHub Streak | GitHub Stats |
+| ------------- | ------------ |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=AvanAvi&theme=great-gatsby)](https://git.io/streak-stats) | ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby) |
 
 
 
