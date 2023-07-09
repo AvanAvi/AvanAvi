@@ -44,9 +44,9 @@ Currently_learning:
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=AvanAvi&theme=great-gatsby&border_radius=20)](https://git.io/streak-stats) | ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby&border_radius=20) |
 
 
-<div align="center" style="width: 400px;height: 195px; border-radius: 20px;">
+<div align="center" style="width: 400px;height: 195px;">
   <a href="https://github.com/AvanAvi/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanAvi&theme=great-gatsby&layout=donut" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanAvi&theme=great-gatsby&layout=donut&border_radius=20" alt="Top Languages" />
   </a>
 </div>
 
