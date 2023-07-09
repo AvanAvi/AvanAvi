@@ -41,6 +41,7 @@ Currently_learning:
 
 ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AvanAvi&theme=great-gatsby)](https://git.io/streak-stats)
 
 
 ![Snake animation](https://github.com/AvanAvi/AvanAvi/blob/output/github-contribution-grid-snake.svg)
