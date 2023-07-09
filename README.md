@@ -1,8 +1,9 @@
-<p align="center">
+<p align="center" style="border: 2px solid #000; border-radius: 10px; padding: 10px;">
   <a href="https://gfycat.com/shallowaccuratebrownbear-programming-all-tags-compsci-hacker">
-    <img src="https://thumbs.gfycat.com/ShallowAccurateBrownbear-size_restricted.gif" alt="Video" width="680" height="270">
+    <img src="https://thumbs.gfycat.com/ShallowAccurateBrownbear-size_restricted.gif" alt="Video" width="780" height="290" style="border-radius: 10px;">
   </a>
 </p>
+
 
 # Hi there! 👋
 
