@@ -1,8 +1,4 @@
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'>
-  <iframe src='https://gfycat.com/ifr/ShallowAccurateBrownbear' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-</div>
-<p><a href="https://gfycat.com/shallowaccuratebrownbear-programming-all-tags-compsci-hacker">via Gfycat</a></p>
-
+[![Video](https://thumbs.gfycat.com/ShallowAccurateBrownbear-size_restricted.gif)](https://gfycat.com/shallowaccuratebrownbear-programming-all-tags-compsci-hacker)
 
 # Hi there! 👋
 
