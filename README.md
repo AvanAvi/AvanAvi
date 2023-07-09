@@ -41,7 +41,7 @@ Currently_learning:
 
 | GitHub Streak | GitHub Stats |
 | ------------- | ------------ |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=AvanAvi&theme=great-gatsby)](https://git.io/streak-stats) | ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=AvanAvi&theme=great-gatsby&border_radius=20")](https://git.io/streak-stats) | ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby&border_radius=20") |
 
 
 <div align="center">
