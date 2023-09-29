@@ -19,7 +19,7 @@
 
 ## About Me 💻
 
-Name: Avan Avi 
+Name: Avan Avi
 
 Education:
 - Master of Science In Informatics: Resilient and secure Cyber Physical Systems
@@ -44,21 +44,17 @@ Currently_learning:
   </a>
 </div>
 
-## Tic-Tac-Toe Game
+![Snake animation](https://github.com/AvanAvi/AvanAvi/blob/output/github-contribution-grid-snake.svg)
 
-You can play a simple Tic-Tac-Toe game by clicking on the cells below:
-
-|   |   |   |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-
-To make a move, click on an empty cell. The game will alternate between X and O players. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game. If all cells are filled and no player has won, the game ends in a draw.
-
-## How It Works
-
-The Tic-Tac-Toe game is implemented using HTML, CSS, and JavaScript. The game logic is written in JavaScript, and the board is rendered using HTML and CSS. When a player makes a move, the JavaScript code updates the game state and checks for a win or draw condition. If the game is not over, it switches to the next player's turn. The game state is stored in a 2D array, where empty cells are represented by the value 0, X cells by 1, and O cells by 2.
-
-To add this game to your own README.md file, you can copy the code from the [source file](https://github.com/AvanAvi/AvanAvi/blob/main/tic-tac-toe.html) and replace the existing content in your README.md file. Make sure to include the necessary HTML, CSS, and JavaScript code, as well as the game board table and the script tag to initialize the game.
-
-Enjoy playing Tic-Tac-Toe! If you have any questions or suggestions, feel free to reach out to me at avanishere@tutamail.com.
+## 🚀 &nbsp;Some Tools I Have Used and Learned, I'm still learning though.. hehe!!
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="45" height="45"/> 
+</p>
