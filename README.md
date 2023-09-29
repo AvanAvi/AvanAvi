@@ -1,9 +1,4 @@
-
-
 # Hi there! 👋 Avan this side...
-
-
-
 
 🔭 Working on Finance Optimization: Seeking that sweet spot where risk and reward dance harmoniously. Portfolio Optimization is my current puzzle to solve!
 
@@ -22,12 +17,9 @@
   <img src="https://media.giphy.com/media/l2vK7msJ65XF6y2w22/giphy.gif" width="480" height="270" alt="GIF">
 </p>
 
-
-
 ## About Me 💻
 
-
-Name: Avan Avi 
+Name: Avan Avi
 
 Education:
 - Master of Science In Informatics: Resilient and secure Cyber Physical Systems
@@ -46,18 +38,15 @@ Currently_learning:
 | ------------- | ------------ |
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=AvanAvi&theme=great-gatsby&border_radius=20)](https://git.io/streak-stats) | ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby&border_radius=20) |
 
-
 <div align="center" style="width: 400px;height: 195px;">
   <a href="https://github.com/AvanAvi/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanAvi&theme=great-gatsby&layout=donut&border_radius=20" alt="Top Languages" />
   </a>
 </div>
 
-
-
 ![Snake animation](https://github.com/AvanAvi/AvanAvi/blob/output/github-contribution-grid-snake.svg)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned, I'm still learning though.. hehe!!</h2>
+## 🚀 &nbsp;Some Tools I Have Used and Learned, I'm still learning though.. hehe!!
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
@@ -67,10 +56,5 @@ Currently_learning:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="45" height="45"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="45" height="45"/> 
-          
-
 </p>
-
-
