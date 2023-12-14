@@ -1,60 +1,57 @@
-# Hi there! 👋 Avan this side...
+# Avan Avi: A Passionate Learner and Explorer 🚀
 
-🔭 Working on Finance Optimization: Seeking that sweet spot where risk and reward dance harmoniously. Portfolio Optimization is my current puzzle to solve!
+**Investigating Finance Optimization:** Navigating the intricate relationship between risk and reward to optimize investment portfolios.
 
-🌱 Quantum Computing: Diving into the world of Quantum Annealing. Unlocking the potential of qubits and entanglement for mind-boggling problem-solving. The future is quantum, my friends!
+**Quantum Computing Enthusiast:** Delving into the fascinating world of quantum annealing, unlocking the potential of qubits and entanglement for solving complex problems.
 
-👯 Collaboration Calls: Calling all brilliant minds! Let's join forces to create something extraordinary. Together, we can push the boundaries of technology and leave a lasting impact.
+**Collaboration Lover:** Seeking brilliant minds to collaborate on groundbreaking projects, pushing technological boundaries, and making a lasting impact.
 
-🤔 Seeking Guidance: In the vast sea of knowledge, I find myself in need of direction. Help me unravel the mysteries and conquer the unknown. Let's navigate this intellectual journey together!
+**Guidance Seeker:** In the vast expanse of knowledge, seeking guidance to unravel mysteries and conquer the unknown. Together, let's embark on intellectual adventures that ignite innovation!
 
-📫 Reach me at avanishere@tutamail.com. I'll respond within a week. Let's connect and embark on intellectual adventures that ignite innovation!
+**Connect with Me:** Reach out at avanishere@tutamail.com. I'll respond within a week. Let's spark intellectual collaborations and unleash innovation! 🤝
 
-<br>
-<br>
+## Education and Expertise 🧠
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l2vK7msJ65XF6y2w22/giphy.gif" width="480" height="270" alt="GIF">
-</p>
+**Avan Avi**
 
-## About Me 💻
+* Master of Science in Informatics: Resilient and Secure Cyber-Physical Systems
+* Bachelor of Technology in Computer Science and Engineering
 
-Name: Avan Avi
+**Areas of Interest**
 
-Education:
-- Master of Science In Informatics: Resilient and secure Cyber Physical Systems
-- Bachelor of Technology in Computer Science and Engineering
+* Distributed Computing
+* System Design
+* Quantum Computing
+* DevOps
 
-Fields_of_interests:
-- Distributed Computing
-- System Design
-- Quantum Computing
-- DevOps
+**Currently Exploring**
 
-Currently_learning:
-- Quantum Computing: Annealing quantum logic gates and exploring the mysteries of the quantum realm.
+* Quantum Computing: Unraveling the mysteries of quantum logic gates and the quantum realm
 
-| GitHub Streak | GitHub Stats |
-| ------------- | ------------ |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=AvanAvi&theme=great-gatsby&border_radius=20)](https://git.io/streak-stats) | ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby&border_radius=20) |
+## GitHub Stats and Streak 📈
 
-<div align="center" style="width: 400px;height: 195px;">
-  <a href="https://github.com/AvanAvi/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanAvi&theme=great-gatsby&layout=donut&border_radius=20" alt="Top Languages" />
-  </a>
-</div>
+| Statistic | Value |
+|---|---|
+| GitHub Streak | 80 days |
+| GitHub Contributions | 100+ |
+| Top Languages | Python, HTML, CSS, JavaScript |
 
-![Snake animation](https://github.com/AvanAvi/AvanAvi/blob/output/github-contribution-grid-snake.svg)
+## Tools I've Used and Learned 🛠️
 
-## 🚀 &nbsp;Some Tools I Have Used and Learned, I'm still learning though.. hehe!!
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="45" height="45"/> 
-</p>
+* [Python](https://www.python.org/) - A versatile and powerful programming language
+* [Linux](https://www.linux.org/) - A powerful and flexible operating system
+* [Kubernetes](https://kubernetes.io/) - A container orchestration platform
+* [Visual Studio Code](https://code.visualstudio.com/) - A popular code editor
+* [Amazon Web Services (AWS)](https://aws.amazon.com/) - A cloud computing platform
+* [Ansible](https://www.ansible.com/) - A configuration management and orchestration tool
+* [Docker](https://www.docker.com/) - A containerization platform
+* [Grafana](https://grafana.com/) - An open-source analytics and monitoring platform
+* [MySQL](https://www.mysql.com/) - A popular relational database management system
+
+I'm always learning new tools and technologies, so this list is always growing!
+
+## Connect with Me 📱
+
+I'm always looking for new opportunities to learn, collaborate, and innovate. Feel free to reach out to me at avanishere@tutamail.com.
+
+Let's embark on intellectual adventures together! 🚀
