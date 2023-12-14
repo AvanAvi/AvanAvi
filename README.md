@@ -1,63 +1,60 @@
-# Avan Avi: Unleashing the Power of Technology 🚀
+# Hi there! 👋 Avan this side...
 
-**Investigating Finance Optimization:**
+🔭 Working on Finance Optimization: Seeking that sweet spot where risk and reward dance harmoniously. Portfolio Optimization is my current puzzle to solve!
 
+🌱 Quantum Computing: Diving into the world of Quantum Annealing. Unlocking the potential of qubits and entanglement for mind-boggling problem-solving. The future is quantum, my friends!
 
-**Quantum Computing Enthusiast:**
-[Image of a quantum computer with qubits and entanglement, symbolizing the power of quantum computing]
+👯 Collaboration Calls: Calling all brilliant minds! Let's join forces to create something extraordinary. Together, we can push the boundaries of technology and leave a lasting impact.
 
-**Collaboration Lover:**
-[Image of two hands connected, representing collaboration and teamwork]
+🤔 Seeking Guidance: In the vast sea of knowledge, I find myself in need of direction. Help me unravel the mysteries and conquer the unknown. Let's navigate this intellectual journey together!
 
-**Guidance Seeker:**
+📫 Reach me at avanishere@tutamail.com. I'll respond within a week. Let's connect and embark on intellectual adventures that ignite innovation!
 
+<br>
+<br>
 
-**Reach out to me at avanishere@tutamail.com. I'll respond within a week. Let's connect and embark on intellectual adventures that ignite innovation! 🤝**
+<p align="center">
+ <img src="https://media.giphy.com/media/l2vK7msJ65XF6y2w22/giphy.gif" width="480" height="270" alt="GIF">
+</p>
 
-## Education and Expertise 🧠
+## About Me 💻
 
-**Avan Avi**
+Name: Avan Avi
 
-* Master of Science in Informatics: Resilient and Secure Cyber-Physical Systems
-* Bachelor of Technology in Computer Science and Engineering
+Education:
+- Master of Science In Informatics: Resilient and secure Cyber Physical Systems
+- Bachelor of Technology in Computer Science and Engineering
 
-**Areas of Interest**
+Fields_of_interests:
+- Distributed Computing
+- System Design
+- Quantum Computing
+- DevOps
 
-* Distributed Computing
-* System Design
-* Quantum Computing
-* DevOps
+Currently_learning:
+- Quantum Computing: Annealing quantum logic gates and exploring the mysteries of the quantum realm.
 
-**Currently Exploring**
+| GitHub Streak | GitHub Stats |
+| ------------- | ------------ |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=AvanAvi&theme=great-gatsby&border_radius=20)](https://git.io/streak-stats) | ![AvanAvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=great-gatsby&border_radius=20) |
 
-* Quantum Computing: Unraveling the mysteries of quantum logic gates and the quantum realm
+<div align="center" style="width: 400px;height: 195px;">
+ <a href="https://github.com/AvanAvi/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanAvi&theme=great-gatsby&layout=donut&border_radius=20" alt="Top Languages" />
+ </a>
+</div>
 
-## GitHub Stats and Streak 📈
+![Snake animation](https://github.com/AvanAvi/AvanAvi/blob/output/github-contribution-grid-snake.svg)
 
-| Icon | Statistic | Value |
-|---|---|---|
-| ![GitHub Streak](https://img.icons8.com/color/48/007bff/trophy.png) | GitHub Streak | 80 days |
-| ![GitHub Contributions](https://img.icons8.com/doodle/48/007bff/rocket-launch.png) | GitHub Contributions | 100+ |
-| ![Top Languages](https://img.icons8.com/office/48/007bff/programming-language.png) | Top Languages | Python, HTML, CSS, JavaScript |
-
-## Tools I've Used and Learned 🛠️
-
-| Icon | Tool | Link |
-|---|---|---|
-| ![Python](https://img.icons8.com/color/48/007bff/python-programming-language.png) | Python | [Link to Python](https://www.python.org/) |
-| ![Linux](https://img.icons8.com/color/48/007bff/linux-operating-system-symbol.png) | Linux | [Link to Linux](https://www.linux.org/) |
-| ![Kubernetes](https://img.icons8.com/color/48/007bff/kubernetes-logo.png) | Kubernetes | [Link to Kubernetes](https://kubernetes.io/) |
-| ![Visual Studio Code](https://img.icons8.com/color/48/007bff/visual-studio-code-logo.png) | Visual Studio Code | [Link to Visual Studio Code](https://code.visualstudio.com/) |
-| ![Amazon Web Services (AWS)](https://img.icons8.com/color/48/007bff/amazon-aws-logo.png) | Amazon Web Services (AWS) | [Link to Amazon Web Services (AWS)](https://aws.amazon.com/) |
-| ![Ansible](https://img.icons8.com/color/48/007bff/ansible-automation-engine.png) | Ansible | [Link to Ansible](https://www.ansible.com/) |
-| ![Docker](https://img.icons8.com/color/48/007bff/docker-container-logo.png) | Docker | [Link to Docker](https://www.docker.com/) |
-| ![Grafana](https://img.icons8.com/color/48/007bff/grafana-data-visualization-tool.png) | Grafana | [Link to Grafana](https://grafana.com/) |
-| ![MySQL](https://img.icons8.com/color/48/007bff/my-sql-database-logo.png) | MySQL | [Link to MySQL](https://www.mysql.com/) |
-
-I'm always learning new tools and technologies, so this list is always growing!
-
-## Connect with Me 📱
-
-**I'm always looking for new opportunities to learn, collaborate, and innovate. Feel free to reach out to me at avanishere@tutamail.com.**
-
-Let's embark on intellectual adventures together! 🚀
+## 🚀 &nbsp;Some Tools I Have Used and Learned, I'm still learning though.. hehe!!
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="45" height="45"/> 
+</p>
