@@ -1,4 +1,4 @@
-# Hi there! 👋 Avan this side...
+# Hi there! 👋 AvanAvi this side...
 
 🔭 Working on Finance Optimization: Seeking that sweet spot where risk and reward dance harmoniously. Portfolio Optimization is my current puzzle to solve!
 
@@ -34,8 +34,6 @@ Fields_of_interests:
 Currently_learning:
 - Quantum Computing: Annealing quantum logic gates and exploring the mysteries of the quantum realm.
 
-[!My GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=github_dark)
-
 
 
 ## 🚀 &nbsp;Some Tools I Have Used and Learned, I'm still learning though.. hehe!!
@@ -50,3 +48,11 @@ Currently_learning:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="45" height="45"/> 
 </p>
+
+<a href="https://github.com/AvanAvi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AvanAvi&hide=issues,contribs&theme=github_dark" />
+</a>
+
+<a href="https://github.com/AvanAvi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AvanAvi&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+</a>
