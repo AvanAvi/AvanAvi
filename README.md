@@ -49,10 +49,12 @@ Currently_learning:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="45" height="45"/> 
 </p>
 
-<a href="https://github.com/AvanAvi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AvanAvi&hide=issues,contribs&theme=github_dark" />
-</a>
+<div align="center">
+  <a href="https://github.com/AvanAvi">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=AvanAvi&hide=issues,contribs&theme=github_dark" />
+  </a>
+  <a href="https://github.com/AvanAvi">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=AvanAvi&hide=issues,contribs&theme=github_dark" />
+  </a>
+</div>
 
-<a href="https://github.com/AvanAvi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AvanAvi&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
-</a>
