@@ -34,6 +34,8 @@ Fields_of_interests:
 Currently_learning:
 - Quantum Computing: Annealing quantum logic gates and exploring the mysteries of the quantum realm.
 
+[!My GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanAvi&show_icons=true&theme=github_dark)
+
 
 
 ## 🚀 &nbsp;Some Tools I Have Used and Learned, I'm still learning though.. hehe!!
