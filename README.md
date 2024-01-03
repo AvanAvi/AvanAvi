@@ -56,7 +56,6 @@ Currently_learning:
   <a href="https://github.com/AvanAvi">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=AvanAvi&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
   </a>
-  <br>
   <a href="https://github.com/AvanAvi/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AvanAvi&theme=github_dark" />
   </a>
