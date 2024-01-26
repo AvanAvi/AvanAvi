@@ -1,14 +1,40 @@
-# Hi there! 👋 AvanAvi this side...
 
-🔭 Working on Finance Optimization: Seeking that sweet spot where risk and reward dance harmoniously. Portfolio Optimization is my current puzzle to solve!
 
-🌱 Quantum Computing: Diving into the world of Quantum Annealing. Unlocking the potential of qubits and entanglement for mind-boggling problem-solving. The future is quantum, my friends!
+# Hi there! 👋 AvanAvi here...
 
-👯 Collaboration Calls: Calling all brilliant minds! Let's join forces to create something extraordinary. Together, we can push the boundaries of technology and leave a lasting impact.
+🔭 Currently Crafting: 🚀📜  I've shifted gears from quantum computing and financial optimization to the fascinating world of smart contracts. I'm currently immersing myself in creating industrial-scale and real-world smart contracts on Algorand, with an eventual goal of achieving a touch of formalism.
 
-🤔 Seeking Guidance: In the vast sea of knowledge, I find myself in need of direction. Help me unravel the mysteries and conquer the unknown. Let's navigate this intellectual journey together!
+🌱 New Obsession: 🔗🌐 Blockchain! I've traded my qubits for blocks and chains. I'm now diving deep into the world of decentralized ledgers, exploring how they can revolutionize the way we think about digital trust and transactions.
 
-📫 Reach me at avanishere@tutamail.com. I'll respond within a week. Let's connect and embark on intellectual adventures that ignite innovation!
+👯 Call for Collaboration: 🤝💡 Let's merge our brilliant minds! Coders, strategists, digital dreamers – I'm ready to collaborate.
+
+🤔 Seeking Wisdom: 🧭📚 Your experiences and guidance are my compass in this digital journey. Let's explore new horizons together!
+
+📫 Connect with me at avanishere@tutamail.com. My inbox might be a maze, but I'll find my way to your message within a week. Let's start a dialogue that could lead to the next big tech breakthrough!
+
+
+## About Me 💻
+
+Name: Avan Avi
+
+Education:
+- 🎓 Master of Science In Informatics
+- 🎓 Bachelor of Technology in Computer Science and Engineering
+
+Fields_of_interests:
+- 💻 Distributed Computing
+- 🛠️ System Design
+- 🔗 Blockchain
+- 🧰 DevOps
+
+Currently_learning:
+- 📜 Smart Contracts on Algorand
+
+Special Focus:
+- 🦀 Rust
+- 🐍 Python
+- ⚙️ Backend Development
+
 
 <br>
 <br>
