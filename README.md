@@ -1,6 +1,6 @@
 
 
-# Hi there! 👋 AvanAvi here...
+# Hi there! 👋 Avan Avi here...
 
 🔭 Currently Crafting: 🚀📜  I've shifted gears from quantum computing and financial optimization to the fascinating world of smart contracts. I'm currently immersing myself in creating industrial-scale and real-world smart contracts on Algorand, with an eventual goal of achieving a touch of formalism.
 
