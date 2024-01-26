@@ -18,7 +18,7 @@
 Name: Avan Avi
 
 Education:
-- 🎓 Master of Science In Informatics
+- 🎓 Master of Science In Informatics: Resilient and secure Cyber Physical Systems
 - 🎓 Bachelor of Technology in Computer Science and Engineering
 
 Fields_of_interests:
@@ -42,24 +42,6 @@ Special Focus:
 <p align="center">
  <img src="https://media.giphy.com/media/l2vK7msJ65XF6y2w22/giphy.gif" width="480" height="270" alt="GIF">
 </p>
-
-## About Me 💻
-
-Name: Avan Avi
-
-Education:
-- Master of Science In Informatics: Resilient and secure Cyber Physical Systems
-- Bachelor of Technology in Computer Science and Engineering
-
-Fields_of_interests:
-- Distributed Computing
-- System Design
-- Quantum Computing
-- DevOps
-
-Currently_learning:
-- Quantum Computing: Annealing quantum logic gates and exploring the mysteries of the quantum realm.
-
 
 
 ## 🚀 &nbsp;Some Tools I Have Used and Learned, I'm still learning though.. hehe!!
