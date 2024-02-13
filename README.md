@@ -10,7 +10,8 @@
 
 🤔 Seeking Wisdom: 🧭📚 I value your experience and insights as we navigate the complexities of the digital landscape. Together, we can uncover innovative solutions and explore uncharted territories in technology.
 
-📫 Reach out to me at avanishere@tutamail.com. While my inbox is as complex as a well-structured algorithm, rest assured I will navigate through to find your message within a week. 
+📫 Reach out to me at avanishere@tutamail.com. While my inbox is as complex as a well-structured algorithm, rest assured I will navigate through to find your message within a week,eager to explore how we might collaborate on transformative tech projects.
+
 ## About Me 💻
 
 Name: Avan Avi
