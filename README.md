@@ -35,6 +35,26 @@ Special Focus:
 - 🐍 Python
 - ⚙️ Backend Development
 
+## Technologies & Tools 🔧
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+
+## Favorite Rust Frameworks 🦀 ( Current weapons )
+
+![Axum](https://img.shields.io/badge/Axum-764ABC?style=for-the-badge&logo=rust&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Yew](https://img.shields.io/badge/Yew-DE4D4D?style=for-the-badge&logo=rust&logoColor=white)
+
+
+
+
 
 <br>
 <br>
