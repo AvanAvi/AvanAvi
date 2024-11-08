@@ -2,9 +2,7 @@
 
 # Hi there! 👋 Avan Avi here...
 
-🔭 Currently Crafting: 🚀📜  I've shifted gears from quantum computing and financial optimization to the fascinating world of smart contracts. I'm currently immersing myself in creating industrial-scale and real-world smart contracts on Algorand, with an eventual goal of achieving a touch of formalism.
-
-🌱 New Obsession: 🔗🌐 Blockchain! I've traded my qubits for blocks and chains. I'm now diving deep into the world of decentralized ledgers, exploring how they can revolutionize the way we think about digital trust and transactions.
+📐 Current Focus: Crafting automation workflows with WinCC OA, SCADA, and scripting in Python, JSON, and Bash—designing smarter solutions for streamlined toolchains and efficient process management.
 
 👯 Call for Collaboration: 🤝💡 I'm looking to join forces with coders, strategists, and digital pioneers. Your expertise could greatly enhance our shared endeavors in technology.
 
