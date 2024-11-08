@@ -82,6 +82,10 @@ Special Focus:
 </p>
 
 
+<!--START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+
 <div align="center">
   <a href="https://github.com/AvanAvi">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=AvanAvi&hide=issues,contribs&rank_icon=percentile&theme=github_dark" />
