@@ -29,7 +29,7 @@ Fields_of_interests:
 Currently_learning:
 - 📜 Smart Contracts on Algorand
 - 🚀 No-Code/Low-Code Development
-- 🧠 Large Language Models (LLMs) : HuggingFace and Mistral in Particular
+- 🧠 Large Language Models (LLMs)
 
 
 
