@@ -1,14 +1,18 @@
 
 
-# Hi there! 👋 Avan Avi here...
+# Hi there! 👋 Avan Avi here...(Avaan)
 
 📐 Current Focus: Crafting automation workflows with WinCC OA, SCADA, and scripting in Python, JSON, and Bash—designing smarter solutions for streamlined toolchains and efficient process management.
 
-👯 Call for Collaboration: 🤝💡 I'm looking to join forces with coders, strategists, and digital pioneers. Your expertise could greatly enhance our shared endeavors in technology.
+### 🤔 Philosophy.parse() || Books.debug()
+From Camus to code, my shelves are a mess of philosophy and random indie books nobody's heard of. Currently deep diving into existentialism (because apparently that's how I process breakups even if I was not in a relationship with that cutie) and texts that make my friends go "...what?" But hey, sometimes you need Nietzsche to get over nice girls, right?
 
-🤔 Seeking Wisdom: 🧭📚 I value your experience and insights as we navigate the complexities of the digital landscape. Together, we can uncover innovative solutions and explore uncharted territories in technology.
+### 🌌 Runtime.connect()
+3 AM thoughts about why OOP needs therapy? Hit me up. Whether it's system design hot takes or LLM conspiracies – let's talk tech.
 
-📫 Reach out to me at avanishere@tutamail.com. While my inbox is as complex as a well-structured algorithm, rest assured I will navigate through to find your message within a week,eager to explore how we might collaborate on transformative tech projects.
+### 📡 await Response
+📫 avanishere@tutamail.com  
+`try { await reply(7_days) } catch(MercuryInRetrograde) {}`
 
 ## About Me 💻
 
