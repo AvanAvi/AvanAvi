@@ -19,7 +19,8 @@ From Camus to code, my shelves are a mess of philosophy and random indie books n
 Name: Avan Avi
 
 Education:
-- 🎓 Master of Science In Informatics: Resilient and secure Cyber Physical Systems
+- 🎓 Master of Science In Informatics: Resilient and secure Cyber Physical Systems 
+- 🎓 Masters of Science : Computer Science : M1 - Mathematical Computing 
 - 🎓 Bachelor of Technology in Computer Science and Engineering
 
 Fields_of_interests:
