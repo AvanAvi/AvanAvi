@@ -86,9 +86,12 @@ Special Focus:
 
 
 
-
 <!--START_SECTION:waka -->
-[![wakatime](https://wakatime.com/badge/user/018c7172-25b5-4d12-8aa0-739419def832/project/1d173aee-4baf-4e3f-a9cc-f61e6b1a2b54.svg)](https://wakatime.com/badge/user/018c7172-25b5-4d12-8aa0-739419def832/project/1d173aee-4baf-4e3f-a9cc-f61e6b1a2b54)
+## Coding Hours
+
+[![wakatime](https://wakatime.com/badge/user/018c7172-25b5-4d12-8aa0-739419def832.svg?style=plastic)](https://wakatime.com/@018c7172-25b5-4d12-8aa0-739419def832)
+
+*This badge only shows a fraction of my coding hours. Maybe 1/20th, The rest? Well, let's just say I'm not always great at tracking time. But at least it's proof I can code!*
 <!-- END_SECTION:waka -->
 
 
