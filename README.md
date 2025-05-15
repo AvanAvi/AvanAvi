@@ -2,7 +2,7 @@
 
 # Hi there! 👋 Avan Avi here...(Avaan)
 
-📐 Current Focus: Crafting automation workflows with WinCC OA, SCADA, and scripting in Python, JSON, and Bash—designing smarter solutions for streamlined toolchains and efficient process management.
+📐 Current Focus: Crafting automation workflows with WinCC OA, SCADA, and scripting in Python, JSON, and Bash -> designing smarter solutions for streamlined toolchains and efficient process management.
 
 ### 🤔 Philosophy.parse() || Books.debug()
 From Camus to code, my shelves are a mess of philosophy and random indie books nobody's heard of. Currently deep diving into existentialism (because apparently that's how I process breakups even if I was not in a relationship with that cutie) and texts that make my friends go "...what?" But hey, sometimes you need Nietzsche to get over nice girls, right?
