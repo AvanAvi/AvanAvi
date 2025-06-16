@@ -1,98 +1,68 @@
+# Hi there! 👋 I'm Avan Avi
 
+**Current Focus:** Crafting automation workflows with WinCC OA, SCADA systems, and scripting in Python, JSON, and Bash. Designing smarter solutions for streamlined toolchains and efficient process management.
 
-# Hi there! 👋 Avan Avi here...(Avaan)
+## About Me
 
-📐 Current Focus: Crafting automation workflows with WinCC OA, SCADA, and scripting in Python, JSON, and Bash -> designing smarter solutions for streamlined toolchains and efficient process management.
+**Name:** Avan Avi
 
-### 🤔 Philosophy.parse() || Books.debug()
-From Camus to code, my shelves are a mess of philosophy and random indie books nobody's heard of. Currently deep diving into existentialism (because apparently that's how I process breakups even if I was not in a relationship with that cutie) and texts that make my friends go "...what?" But hey, sometimes you need Nietzsche to get over nice girls, right?
-
-### 🌌 Runtime.connect()
-3 AM thoughts about why OOP needs therapy? Hit me up. Whether it's system design hot takes or LLM conspiracies – let's talk tech.
-
-### 📡 await Response
-📫 avanishere@tutamail.com  
-`try { await reply(7_days) } catch(MercuryInRetrograde) {}`
-
-## About Me 💻
-
-Name: Avan Avi
-
-Education:
-- 🎓 Master of Science In Informatics: Resilient and secure Cyber Physical Systems 
+**Education:**
+- 🎓 Master of Science in Informatics: Resilient and Secure Cyber Physical Systems
 - 🎓 Bachelor of Technology in Computer Science and Engineering
 
-Fields_of_interests:
+**Fields of Interest:**
 - 💻 Distributed Computing
 - 🛠️ System Design
-- 🔗 Blockchain
-- 🧰 DevOps
+- 🔗 Blockchain Technology
+- 🧰 DevOps & Automation
+- 🏭 Industrial Automation & SCADA Systems
+- ⚡ Process Optimization & Workflow Design
 
-Currently_learning:
+**Currently Learning:**
 - 📜 Smart Contracts on Algorand
-- 🚀 No-Code/Low-Code Development
-- 🧠 Large Language Models (LLMs)
+- 🚀 No-Code/Low-Code Development Platforms
+- 🧠 Large Language Models (LLMs) and AI Integration
+- 🔧 Advanced WinCC OA Scripting Techniques
 
+**Special Focus Areas:**
+- 🐍 Python Development & Automation
+- ⚙️ Backend Systems Architecture
+- 🏭 Industrial Control Systems
+- 📊 Data Pipeline Design
+- 🔄 CI/CD Implementation
 
+## Technologies & Tools
 
-Special Focus:
-- 🦀 Rust
-- 🐍 Python
-- ⚙️ Backend Development
-
-## Technologies & Tools 🔧
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![WinCC OA](https://img.shields.io/badge/WinCC_OA-0078D4?style=for-the-badge&logo=siemens&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA-FF6B35?style=for-the-badge&logo=industrial&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
-![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Pylint](https://img.shields.io/badge/Pylint-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## Professional Tools & Technologies
 
-## Favorite Rust Frameworks 🦀 ( Current weapons )
-
-![Axum](https://img.shields.io/badge/Axum-764ABC?style=for-the-badge&logo=rust&logoColor=white)
-![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Yew](https://img.shields.io/badge/Yew-DE4D4D?style=for-the-badge&logo=rust&logoColor=white)
-
-
-
-
-
-<br>
-<br>
-
-<p align="center">
- <img src="https://media.giphy.com/media/l2vK7msJ65XF6y2w22/giphy.gif" width="480" height="270" alt="GIF">
-</p>
-
-
-## 🚀 &nbsp;Some Tools I Have Used and Learned, I'm still learning though.. hehe!!
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="45" height="45"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> 
 </p>
 
+## Philosophy & Books
 
+From Camus to code, I maintain a healthy balance between philosophical inquiry and technical exploration. Currently diving into existentialism and contemporary texts that challenge conventional thinking. Sometimes the best debugging happens when you step away from the screen and into a good book.
 
-<!--START_SECTION:waka -->
-## Coding Hours
+## Development Time
 
-[![wakatime](https://wakatime.com/badge/user/018c7172-25b5-4d12-8aa0-739419def832.svg?style=plastic)](https://wakatime.com/@018c7172-25b5-4d12-8aa0-739419def832)
+[![wakatime](https://wakatime.com/badge/user/018c7172-25b5-4d12-8aa0-739419def832.svg?style=flat-square)](https://wakatime.com/@018c7172-25b5-4d12-8aa0-739419def832)
 
-*This badge only shows a fraction of my coding hours. Maybe 1/20th, The rest? Well, let's just say I'm not always great at tracking time. But at least it's proof I can code!*
-<!-- END_SECTION:waka -->
+*This badge captures a fraction of my actual coding hours. The rest happens in environments where time tracking takes a backseat to problem-solving.*
 
+## GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/AvanAvi">
@@ -101,15 +71,10 @@ Special Focus:
   <a href="https://github.com/AvanAvi">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=AvanAvi&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
   </a>
-  
 </div>
 
+## Connect
 
+📫 **Email:** avanishere@tutamail.com
 
-
-
-
-
-
-
-
+*Open to discussions about system design, automation workflows, or the intersection of philosophy and technology.*
