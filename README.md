@@ -9,6 +9,8 @@
 **Education:**
 - 🎓 Master of Science in Informatics: Resilient and Secure Cyber Physical Systems
 - 🎓 Bachelor of Technology in Computer Science and Engineering
+- 🎓 Master of Arts (Artium Magister) in Philosophy (SOT: Dionysian Aestheticism) (Pursuing)
+
 
 **Fields of Interest:**
 - 💻 Distributed Computing
