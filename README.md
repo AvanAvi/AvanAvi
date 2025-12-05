@@ -10,8 +10,6 @@
 - 🎓 Master of Science in Informatics: Resilient and Secure Cyber Physical Systems
 - 🎓 Bachelor of Technology in Computer Science and Engineering
 
-
-
 **Fields of Interest:**
 - 💻 Distributed Computing
 - 🛠️ System Design
@@ -68,10 +66,10 @@ From Camus to code, I maintain a healthy balance between philosophical inquiry a
 
 <div align="center">
   <a href="https://github.com/AvanAvi">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=AvanAvi&hide=issues,contribs&rank_icon=percentile&theme=github_dark" />
+    <img height=200 src="https://github-readme-stats-avan-ef6cy1nhf-avan-avis-projects.vercel.app/api?username=AvanAvi&hide=issues,contribs&rank_icon=percentile&theme=github_dark&cache_seconds=21600" />
   </a>
   <a href="https://github.com/AvanAvi">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=AvanAvi&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+    <img height=200 src="https://github-readme-stats-avan-ef6cy1nhf-avan-avis-projects.vercel.app/api/top-langs?username=AvanAvi&layout=compact&langs_count=8&card_width=320&theme=github_dark&cache_seconds=21600" />
   </a>
 </div>
 
