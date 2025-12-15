@@ -62,17 +62,6 @@ From Camus to code, I maintain a healthy balance between philosophical inquiry a
 
 *This badge captures a fraction of my actual coding hours. The rest happens in environments where time tracking takes a backseat to problem-solving.*
 
-## GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/AvanAvi">
-    <img height=200 src="https://github-readme-stats-avan-ef6cy1nhf-avan-avis-projects.vercel.app/api?username=AvanAvi&hide=issues,contribs&rank_icon=percentile&theme=github_dark&cache_seconds=21600" />
-  </a>
-  <a href="https://github.com/AvanAvi">
-    <img height=200 src="https://github-readme-stats-avan-ef6cy1nhf-avan-avis-projects.vercel.app/api/top-langs?username=AvanAvi&layout=compact&langs_count=8&card_width=320&theme=github_dark&cache_seconds=21600" />
-  </a>
-</div>
-
 ## ✨ Contribution Activity
 
 <div align="center">
