@@ -73,41 +73,37 @@ From Camus to code, I maintain a healthy balance between philosophical inquiry a
   </a>
 </div>
 
-## ✨ Contribution Universe
+## ✨ Contribution Activity
 
 <div align="center">
 
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvanAvi/AvanAvi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvanAvi/AvanAvi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AvanAvi/AvanAvi/output/github-snake-dark.svg" />
-</picture>
-
-<br/>
-
-<!-- GitHub Streak Stats - Animated fire streak -->
+<!-- GitHub Streak Stats -->
 <a href="https://github.com/AvanAvi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvanAvi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AvanAvi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- Activity Graph - Animated contribution chart -->
+<!-- Activity Graph -->
 <a href="https://github.com/AvanAvi">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanAvi&bg_color=0D1117&color=58A6FF&line=FF6B35&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity%20Timeline" alt="Activity Graph" />
 </a>
 
 <br/><br/>
 
-<!-- GitHub Trophies - Achievement badges -->
+<!-- GitHub Profile Summary Cards -->
 <a href="https://github.com/AvanAvi">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvanAvi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvanAvi&theme=github_dark" alt="Profile Details" />
 </a>
 
-<!-- Animated Profile Views Counter -->
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=AvanAvi&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<br/>
+
+<a href="https://github.com/AvanAvi">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AvanAvi&theme=github_dark" alt="Repos per Language" />
+</a>
+<a href="https://github.com/AvanAvi">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AvanAvi&theme=github_dark" alt="Most Commit Language" />
+</a>
 
 </div>
 
