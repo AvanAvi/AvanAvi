@@ -6,10 +6,6 @@
 
 **Name:** Avan Avi
 
-**Education:**
-- 🎓 Master of Science in Informatics: Resilient and Secure Cyber Physical Systems
-- 🎓 Bachelor of Technology in Computer Science and Engineering
-
 **Fields of Interest:**
 - 💻 Distributed Computing
 - 🛠️ System Design
